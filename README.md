@@ -5,7 +5,7 @@ Rank
 Movie Name
 Release Year
 Rating
-This script utilizes the requests and BeautifulSoup libraries to interact with the IMDb website and extract the desired information. The openpyxl library is used for creating and populating the Excel spreadsheet.
+This script utilizes the requests and BeautifulSoup libraries to interact with the IMDb website and extract the desired information. The openpyxl library is used to create and populate the Excel spreadsheet.
 
 Requirements:
 
@@ -18,4 +18,4 @@ Usage:
 Clone the repository:
 
 Bash
-git clone 
+git clone https://github.com/pranal02/TOP-Movie-Ratings-Data-Extraction-Tool-WebScraping-.git
